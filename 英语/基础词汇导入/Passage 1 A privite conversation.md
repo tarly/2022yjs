@@ -14,7 +14,7 @@ v. 播放；表演；比赛；玩耍
 	fair play （经济）公平竞争
 	play a role in ... 在...中扮演角色/在...起到作用
 	
-	[2009]...many historians have begun to focus on the roles of slavery in the lives of the founding generation.
+	...many historians have begun to focus on the roles of slavery in the lives of the founding generation.
 	
 ## `interset`
 v. 使...感兴趣
