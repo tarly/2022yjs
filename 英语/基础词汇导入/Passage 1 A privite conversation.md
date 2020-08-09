@@ -149,16 +149,21 @@ n. 对话，谈话
 ## 翻译
 
 1. 昨晚我去戏院看戏了。
+
 I went to theater to watch a play last night.
 
 2. 他转身面对窗户。
+
 He turnd to the window.
 
 3. 妈妈很生气，因为我撒谎了。
+
 Mon is angry because I lied.
 
 4. 他大声说：“这不管你的事！”
+
 "It's none of your business!" he saied loudly.
 
 5. 同学们，请注意看你们的课本。
+
 Students, please pay attention to your book.
